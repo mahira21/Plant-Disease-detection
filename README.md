@@ -28,4 +28,7 @@
 
 ## Model Summary
 ![image](https://github.com/user-attachments/assets/257f0cf8-404a-4ed0-90a0-36bf88ee886f)
+## Results Curves
+![Screenshot 2025-04-27 153530](https://github.com/user-attachments/assets/aea6f74f-0470-4953-89bb-1851485f3ba9)
+![image](https://github.com/user-attachments/assets/bce87bfe-8898-4fe6-a6fd-f6d43be35c35)
 
